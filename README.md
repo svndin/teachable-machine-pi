@@ -11,6 +11,7 @@ This project is an implementation of the [Teachable Machine](https://github.com/
 
 - **Hardware**:
   - Raspberry Pi Zero 2 W
+  - Raspberry Pi Camera Module v2
   - Coral USB Accelerator
 
 - **Software**:
